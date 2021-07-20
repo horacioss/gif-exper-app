@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests over <GifGridItem /> should render <GifGridItem /> 1`] = `
+<div
+  className="card animated__animated animated__fadein"
+>
+  <img
+    alt="Any Title for an Image"
+    src="https://localhost/werr/4t.jpg"
+  />
+  <p
+    className="title-image"
+  >
+    Any Title for an Image
+  </p>
+</div>
+`;

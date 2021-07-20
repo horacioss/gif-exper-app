@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test over <GifGrid /> component should render corectly component 1`] = `
+<Fragment>
+  <h3>
+    Dragon Ball
+  </h3>
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexWrap": "wrap",
+      }
+    }
+  >
+    <p
+      className="animate__flash"
+    >
+      Loading...
+    </p>
+  </div>
+</Fragment>
+`;
